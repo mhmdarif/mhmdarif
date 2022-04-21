@@ -1,4 +1,4 @@
-# accout move to : https://github.com/mhmdarif
+# account move to : https://github.com/mhmdarif
 - 👋 Hi, I’m @mhmdarif 
 - 👀 I’m interested in software engineer, data engineer, backend web developer, frontend web developer, mobile developer
 - 🌱 I’m currently learning web dev
